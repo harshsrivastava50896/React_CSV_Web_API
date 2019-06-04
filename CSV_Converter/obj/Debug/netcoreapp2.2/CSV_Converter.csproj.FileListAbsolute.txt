@@ -1,0 +1,28 @@
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.deps.json
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.runtimeconfig.json
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.runtimeconfig.dev.json
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.dll
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.csprojAssemblyReference.cache
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.csproj.CoreCompileInputs.cache
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorAssemblyInfo.cache
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorAssemblyInfo.cs
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.AssemblyInfoInputs.cache
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.AssemblyInfo.cs
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorTargetAssemblyInfo.cache
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.pdb
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.dll
+D:\React CSV data import ,conversion ,comparison\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.pdb
+D:\React_CSV_Tool\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.deps.json
+D:\React_CSV_Tool\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.runtimeconfig.json
+D:\React_CSV_Tool\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.runtimeconfig.dev.json
+D:\React_CSV_Tool\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.dll
+D:\React_CSV_Tool\CSV_Converter\bin\Debug\netcoreapp2.2\CSV_Converter.pdb
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.csprojAssemblyReference.cache
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.csproj.CoreCompileInputs.cache
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorAssemblyInfo.cache
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorAssemblyInfo.cs
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.AssemblyInfoInputs.cache
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.AssemblyInfo.cs
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.RazorTargetAssemblyInfo.cache
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.dll
+D:\React_CSV_Tool\CSV_Converter\obj\Debug\netcoreapp2.2\CSV_Converter.pdb
